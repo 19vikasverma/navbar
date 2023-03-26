@@ -1,0 +1,43 @@
+h1{
+    font-size: 40px;
+    color: white;
+    text-shadow: 4px 4px 4px rgb(255, 98, 0); 
+}
+ul{
+    list-style-type: none;
+    width: 200px;
+    background-color: orange;
+    border: 0px dotted red;
+    border-radius: 10px;
+
+    
+}
+  a{
+    display: block;
+    color:aqua;
+    font-size: 50px;
+    color: blue;
+    font-size:30px;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-bottom: 1px solid rgb(98, 98, 239);
+    text-align: justify;
+
+    
+}
+li a:hover{
+    background-color: rgb(235, 139, 226);
+    color: whitesmoke;
+    border-color: blue;
+}
+p{
+    background-color: sandybrown;
+    height: 20vh;
+}
+body{
+    background-image: url(giphy.gif);
+    background-repeat:repeat-x;
+    background-size: contain;
+    width: 100%;
+    height: 100%;
+}
